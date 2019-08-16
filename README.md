@@ -1,6 +1,6 @@
 # PRACTICA01
 
-<table border=»1″>
+<table>
 
 <tr>
 
@@ -35,8 +35,19 @@
 </tr>
 
 </table>
-1) Explique que son los sistemas empresariales
-2) Describa cuales son las características más importantes de una aplicación empresarial
+## 1) Explique que son los sistemas empresariales
+
+
+hjjjjjjjjjjjjjjjjjjjjmhmk
+
+
+hjjkkkk
+
+
+aaaaaaaaaaaaaaa
+
+
+## 2) Describa cuales son las características más importantes de una aplicación empresarial
 3) Investigue y proponga cinco (5) instituciones que requerirían aplicaciones de misión crítica.
 Justifique su respuesta
 4) Explique cuáles son las diferencias entre la escalabilidad horizontal y escalabilidad vertical
