@@ -1,4 +1,40 @@
 # PRACTICA01
+
+<table border=»1″>
+
+<tr>
+
+<th>Puesto</th>
+
+<th>Corredor</th>
+
+</tr>
+
+<tr>
+
+<td>Usain Bolt</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>Chema Martinez</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>Shabbir Hussein</td>
+
+<td>3</td>
+
+</tr>
+
+</table>
 1) Explique que son los sistemas empresariales
 2) Describa cuales son las características más importantes de una aplicación empresarial
 3) Investigue y proponga cinco (5) instituciones que requerirían aplicaciones de misión crítica.
