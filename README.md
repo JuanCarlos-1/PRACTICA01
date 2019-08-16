@@ -4,7 +4,7 @@
 
 <tr>
 
-<th>Puesto</th>
+<th>Carrera</th>
 
 <th>Corredor</th>
 
@@ -12,7 +12,7 @@
 
 <tr>
 
-<td>Usain Bolt</td>
+<td>Materia</td>
 
 <td>1</td>
 
@@ -20,7 +20,7 @@
 
 <tr>
 
-<td>Chema Martinez</td>
+<td>Apellidos y Nombres</td>
 
 <td>2</td>
 
@@ -28,13 +28,15 @@
 
 <tr>
 
-<td>Shabbir Hussein</td>
+<td>C.I.</td>
 
 <td>3</td>
 
 </tr>
 
 </table>
+
+
 ## 1) Explique que son los sistemas empresariales
 
 
@@ -59,3 +61,6 @@ Justifique su respuesta
 10) Explique cuáles son los contenedores, componentes y servicios de Java EE
 11) Investigue los métodos más utilizados de las clases HttpServlet, HttpServletRequest y
 HttpServletResponse, y para cada uno de los métodos muestre un ejemplo.
+
+
+![IMAGEN](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS6pkwu3xKpAvKYsTDCy67Y36UIC0TxSlIStbdOuVJs9pF3O7Dmg)
