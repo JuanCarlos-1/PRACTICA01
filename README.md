@@ -1,6 +1,6 @@
 # PRACTICA01
 
-<table>
+<table border="1">
 
 <tr>
 
@@ -75,10 +75,22 @@ Justifique su respuesta
 ## 4) Explique cuáles son las diferencias entre la escalabilidad horizontal y escalabilidad vertical
 
 
+Un sistema escala verticalmente cuando al añadir más recursos a un nodo particular del sistema, este mejora en conjunto en cambio un sistema escala horizontalmente si al agregar más nodos al mismo, el rendimiento de éste mejora. 
+
+
 ## 5) Que es un servidor Web y que es un servidor de aplicaciones
 
 
+Un servidor web es un programa informático que procesa una aplicación del lado del servidor, realizando conexiones bidireccionales o unidireccionales y síncronas o asíncronas con el cliente y generando o cediendo una respuesta en cualquier lenguaje o Aplicación del lado del cliente. El código recibido por el cliente es renderizado por un navegador web. Para la transmisión de todos estos datos suele utilizarse algún protocolo. Generalmente se usa el protocolo HTTP para estas comunicaciones, perteneciente a la capa de aplicación del modelo OSI. El término también se emplea para referirse al ordenador.
+
+Servidor de plicaciones se denomina servidor de aplicaciones a un servidor en una red de computadores que ejecuta ciertas aplicaciones.
+Usualmente se trata de un dispositivo de software que proporciona servicios de aplicación a las computadoras cliente. Un servidor de aplicaciones generalmente gestiona la mayor parte (o la totalidad) de las funciones de lógica de negociación y de acceso a los datos de las aplicaciones. Los principales beneficios de la aplicación de la tecnología de servidores de aplicación son la centralización y la disminución de la complejidad en el desarrollo de aplicaciones.
+
 ## 6) Con un gráfico explique cómo funciona el protocolo HTTP
+
+
+
+![IMAGEN](https://image.slidesharecdn.com/protocolosyhistoriadeinternet-120705070105-phpapp01/95/protocolos-y-historia-de-internet-13-728.jpg?cb=1341471732)
 
 
 ## 7) Explique los elementos importantes de REQUEST en HTTP
