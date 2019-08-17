@@ -68,10 +68,14 @@ Un sistema empresarial es un sistema central de la organización, que garantiza 
      - La capacidad de trabajar fuera de línea.
 
 
-## 3) Investigue y proponga cinco (5) instituciones que requerirían aplicaciones de misión crítica.
-Justifique su respuesta
+## 3) Investigue y proponga cinco (5) instituciones que requerirían aplicaciones de misión crítica. Justifique su respuesta
 
-
+  - ENTEL
+  - TIGO 
+  - VIVA
+  - ATT
+  - COTEL
+  
 ## 4) Explique cuáles son las diferencias entre la escalabilidad horizontal y escalabilidad vertical
 
 
@@ -134,7 +138,10 @@ Java EE define los siguientes servicios:
   - De mensajeria: para poder comunicarse con otros componentes, aplicaciones o EIS.
 
 
-## 11) Investigue los métodos más utilizados de las clases HttpServlet, HttpServletRequest y
-HttpServletResponse, y para cada uno de los métodos muestre un ejemplo.
+## 11) Investigue los métodos más utilizados de las clases HttpServlet, HttpServletRequest y HttpServletResponse, y para cada uno de los métodos muestre un ejemplo.
+
+    - HttpServlet: init(ServletConfig config), getServletConfig(), service(ServletRequest req,ServletResponse res), destroy()
+    - HttpServletRequest: getHeader(String name), getCookies(), getSession(), setAttribute(String name, Object value)
+    - HttpServletResponse: addCookie(), addHeader(), addIntHeader(), contaisHeader(), encodeRedirectURL(), encodeURL(), sendError(),           sendRedirect(), setStatus()
 
 
