@@ -6,7 +6,7 @@
 
 <th>Carrera</th>
 
-<th>Ingenieria de Sistemas</th>
+<th>Ingenieria de Sistemas                 </th>
 
 </tr>
 
@@ -14,7 +14,7 @@
 
 <td>Materia</td>
 
-<td>Tecnologias Emergentes II</td>
+<td>Tecnologias Emergentes II               </td>
 
 </tr>
 
@@ -22,7 +22,7 @@
 
 <td>Apellidos y Nombres</td>
 
-<td>Laura Quispe Juan Carlos</td>
+<td>Laura Quispe Juan Carlos                 </td>
 
 </tr>
 
@@ -30,7 +30,7 @@
 
 <td>C.I.</td>
 
-<td>7042268</td>
+<td>7042268                          </td>
 
 </tr>
 <tr>
@@ -53,19 +53,19 @@ Un sistema empresarial es un sistema central de la organización, que garantiza 
 ## 2) Describa cuales son las características más importantes de una aplicación empresarial
 
 
-Integración con las redes sociales.
+     - Integración con las redes sociales.
 
 
-Funcionalidad de búsqueda.
+     - Funcionalidad de búsqueda.
 
 
-Permitir comentarios del usuario.
+     - Permitir comentarios del usuario.
 
 
-Diseño adaptado a diferentes dispositivos y tamaños de pantalla.
+     - Diseño adaptado a diferentes dispositivos y tamaños de pantalla.
 
 
-La capacidad de trabajar fuera de línea.
+     - La capacidad de trabajar fuera de línea.
 
 
 ## 3) Investigue y proponga cinco (5) instituciones que requerirían aplicaciones de misión crítica.
@@ -89,24 +89,52 @@ Usualmente se trata de un dispositivo de software que proporciona servicios de a
 ## 6) Con un gráfico explique cómo funciona el protocolo HTTP
 
 
-
 ![IMAGEN](https://image.slidesharecdn.com/protocolosyhistoriadeinternet-120705070105-phpapp01/95/protocolos-y-historia-de-internet-13-728.jpg?cb=1341471732)
 
 
 ## 7) Explique los elementos importantes de REQUEST en HTTP
 
 
+    - Metodo HTTP
+    
+    - Pagina de acceso
+    
+    - Parametros de formulario
+
 ## 8) Explique los elementos importantes de RESPONSE en HTTP
 
+    - Un codigo de estado
+   
+    - Tipo de contenido
 
 ## 9) Describa con un gráfico la arquitectura Java EE
 
 
+![IMAGEN](https://image.slidesharecdn.com/arquitecturaydiseodeaplicacionesj2ee-100623151516-phpapp02/95/arquitectura-y-diseo-de-aplicaciones-java-ee-16-728.jpg?cb=1339778291)
+
 ## 10) Explique cuáles son los contenedores, componentes y servicios de Java EE
+
+Un contenedor es un entorno de ejecucion que provee al componente una serie de servicios.
+  - Contenedor web
+  - Contenedor de negocio
+  
+  
+Un componente es una unidad de software que forma parte de una aplicacion.
+   - Componente cliente.
+   - Componente web.
+   - Componente de negocio.
+
+Java EE define los siguientes servicios:
+  - De directorio: para la indexación y busqueda de componentes y recursos.
+  - De despliegue: para poder personalizar los componentes y recursos.
+  - De transaccionalidad: para poder ejecutar distintas acciones en una misma unidad transaccional.
+  - De seguridad: para poder autenticar y autorizar a los usuarios de la aplicacion.
+  - De acceso a datos: para faciliotar el acceso a base de datos.
+  - De conectividad: para poder acceder facilmente a distintos EIS.
+  - De mensajeria: para poder comunicarse con otros componentes, aplicaciones o EIS.
 
 
 ## 11) Investigue los métodos más utilizados de las clases HttpServlet, HttpServletRequest y
 HttpServletResponse, y para cada uno de los métodos muestre un ejemplo.
 
 
-![IMAGEN](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS6pkwu3xKpAvKYsTDCy67Y36UIC0TxSlIStbdOuVJs9pF3O7Dmg)
