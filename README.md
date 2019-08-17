@@ -6,7 +6,7 @@
 
 <th>Carrera</th>
 
-<th>Ingenieria de Sistemas                 </th>
+<th>Ingenieria de Sistemas</th>
 
 </tr>
 
@@ -14,7 +14,7 @@
 
 <td>Materia</td>
 
-<td>Tecnologias Emergentes II               </td>
+<td>Tecnologias Emergentes II</td>
 
 </tr>
 
@@ -22,7 +22,7 @@
 
 <td>Apellidos y Nombres</td>
 
-<td>Laura Quispe Juan Carlos                 </td>
+<td>Laura Quispe Juan Carlos</td>
 
 </tr>
 
@@ -30,14 +30,14 @@
 
 <td>C.I.</td>
 
-<td>7042268                          </td>
+<td>7042268</td>
 
 </tr>
 <tr>
 
 <td>Lugar y Fecha</td>
 
-<td>16-08-2019</td>
+<td>El Alto - La paz 16-08-2019</td>
 
 </tr>
 
